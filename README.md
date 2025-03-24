@@ -1,4 +1,4 @@
-# Quick Start UI -- Just Install & Start Building!
+# Quick Start UI  -  Just Install & Start Building!
 
 ## No more setup hassle—get Vite, Tailwind CSS, Material UI, ShadCN UI, and Redux Toolkit pre-installed in one go!
 
@@ -17,30 +17,15 @@ A fast and modern React starter kit with Vite, Tailwind CSS, Material UI, ShadCN
 
 ## Installation
 
-### Create a New Project
-
 ```bash
 # Using npm
-npx quick-start-ui my-app
+npx quick-starter-ui 
 
 # Using yarn
-yarn create quick-start-ui my-app
+yarn create quick-starter-ui
 
 # Using pnpm
-pnpm create quick-start-ui my-app
-```
-
-### Add to Existing Project
-
-```bash
-# Using npm
-npm install quick-start-ui
-
-# Using yarn
-yarn add quick-start-ui
-
-# Using pnpm
-pnpm add quick-start-ui
+pnpm create quick-starter-ui
 ```
 
 ## Contributing
