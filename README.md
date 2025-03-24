@@ -1,6 +1,8 @@
 # Quick Start UI -- Just Install & Start Building!
 
-No more setup hassle—get Vite, Tailwind CSS, Material UI, ShadCN UI, and Redux Toolkit pre-installed in one go! A fast and modern React starter kit with Vite, Tailwind CSS, Material UI, ShadCN UI, and Redux Toolkit. Pre-configured for performance, scalability, and seamless UI development. Get started instantly!
+## No more setup hassle—get Vite, Tailwind CSS, Material UI, ShadCN UI, and Redux Toolkit pre-installed in one go!
+
+A fast and modern React starter kit with Vite, Tailwind CSS, Material UI, ShadCN UI, and Redux Toolkit. Pre-configured for performance, scalability, and seamless UI development. Get started instantly!
 
 ## Features
 
